@@ -1,25 +1,23 @@
-Name
+PPG sensor serial communication sample code for Arduino
 ====
-
-Overview
 
 ## Description
 
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
+Serial communication sample for Arduino only for specific PPG sensor
 
 ## Install
+Needs to connect as below
+ PPG Pin3 (TX) to Arduino Pin0 (RX)
+ PPG Pin4 (RX) to Arduino Pin1 (TX)           
 
-## Contribution
+Write PPGserialsample.ino to Arduino.
+
+## Usage
+Open Serial monitor and heart rate will be displayed.
 
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
-Yutaro
+Yutaro Miura
