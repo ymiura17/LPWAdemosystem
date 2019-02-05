@@ -14,10 +14,3 @@ Write PPGserialsample.ino to Arduino.
 
 ## Usage
 Open Serial monitor and heart rate will be displayed.
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-Yutaro Miura
