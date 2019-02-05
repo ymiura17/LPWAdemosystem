@@ -2,6 +2,7 @@ void setup() {
   // put your setup code here, to run once:
  Serial.begin(115200);
   delay(1000);
+  //Enable heart rate mode
   Serial.write(0x02);
   Serial.write(0x35);
   Serial.write(0x48);
